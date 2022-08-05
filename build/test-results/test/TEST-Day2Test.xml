@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Day2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-07-28T05:56:24" hostname="Zheng-Lus-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="Case1()" classname="Day2Test" time="0.012"/>
+  <testcase name="Case2()" classname="Day2Test" time="0.0"/>
+  <system-out><![CDATA[test case 1
+test case 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
